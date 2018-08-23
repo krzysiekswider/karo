@@ -13,7 +13,13 @@ Arduino-Raspberry Pi networking project
   - public APN (IP) is very hard to become at present due to IPv4 addressing limitation. In 2019 Telekom should make IPv6 officially available.
 - 433Mhz RF Communication Receiver (RF=Radio Frequency)
 - nRF24L01+ 2.4GHz
-- 
+
+- Web Stack:
+  - Operating system -> Raspbian (Debian derivate)
+  - Web server -> nginx, Apache
+  - WSGI server -> Green Unicorn, uWSGI, mod_wsgi, CherryPy
+  - Web microFramework -> Flask (Python)
+  - Database -> OrientDB, MariaDB, SQLite
 
 ## Gabi (Arduino Uno Rev. 3)
 
@@ -23,3 +29,7 @@ Arduino-Raspberry Pi networking project
   - In Europe, the 433MHz, 868MHz and 2.4MHz can be used with limited power
   - For the 433MHz, a transmitter may only transmit during 10% of the time
   - There are good transceiver modules for 433MHz and 2.4GHz. Google for "Sparkfun wireless buying guide" to see a nice list of possibilities. Or check the modules that are supported by the RadioHead library at airspayce.com/mikem.
+
+## Fran (Public server)
+
+- to be established

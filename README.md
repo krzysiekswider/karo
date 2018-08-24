@@ -13,6 +13,9 @@ Arduino-Raspberry Pi networking project
   - public APN (IP) is very hard to become at present due to IPv4 addressing limitation. In 2019 Telekom should make IPv6 officially available.
 - 433Mhz RF Communication Receiver (RF=Radio Frequency)
 - nRF24L01+ 2.4GHz
+- see
+  - https://electronics.stackexchange.com/questions/144358/wireless-home-automation-2-4ghz-versus-433mhz
+  - https://forum.arduino.cc/index.php?topic=111847.0
 
 - Web Stack:
   - Operating system -> Raspbian (Debian derivate)

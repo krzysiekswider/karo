@@ -23,6 +23,16 @@ Arduino-Raspberry Pi networking project
   - WSGI server -> Green Unicorn, uWSGI, mod_wsgi, CherryPy
   - Web microFramework -> Flask (Python)
   - Database -> OrientDB, MariaDB, SQLite
+  
+- Rasbpian
+  - Mosh (MobileSSH)
+  - Docker on RaspPi
+    - https://blog.alexellis.io/live-deep-dive-pi-swarm/
+    - https://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
+    - https://github.com/docker-library/official-images
+    - https://hub.docker.com/r/arm64v8/mediawiki/
+    - https://hub.docker.com/r/arm64v8/alpine/
+  - https://github.com/alexellis/pizero-docker-demo/tree/master/iotnode
 
 ## Gabi (Arduino Uno Rev. 3)
 
